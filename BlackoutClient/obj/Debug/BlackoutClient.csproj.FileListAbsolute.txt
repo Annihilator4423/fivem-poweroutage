@@ -1,0 +1,8 @@
+C:\Users\brade\source\repos\BlackoutClient\BlackoutClient\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\brade\source\repos\BlackoutClient\BlackoutClient\bin\Debug\CitizenFX.Core.dll
+C:\Users\brade\source\repos\BlackoutClient\BlackoutClient\obj\Debug\BlackoutClient.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\BlackoutClient\BlackoutClient\obj\Debug\BlackoutClient.csproj.CopyComplete
+C:\Users\brade\source\repos\BlackoutClient\BlackoutClient\bin\Debug\BlackoutClient.net.dll
+C:\Users\brade\source\repos\BlackoutClient\BlackoutClient\bin\Debug\BlackoutClient.net.pdb
+C:\Users\brade\source\repos\BlackoutClient\BlackoutClient\obj\Debug\BlackoutClient.net.dll
+C:\Users\brade\source\repos\BlackoutClient\BlackoutClient\obj\Debug\BlackoutClient.net.pdb
